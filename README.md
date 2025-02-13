@@ -5,7 +5,7 @@
 - 💻 Atuando como Analista de Gestão de Crises.
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicrrs&show_icons=true) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicrrs&layout=compact)](https://github.com/nicrrs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicrrs&layout=compact&theme=blue_navy)](https://github.com/nicrrs/github-readme-stats)
 
 
 
